@@ -1,4 +1,4 @@
 # CommunityEcology
 Code and data for Community Ecology
 
-To reproduce the analyses in Chapters 6 and 7 of Commmunity Ecology, run the script 'community.ecology.R'. This will load the Rdata file and will also use functions that are included in 'traitspace.functions.R'.
+To reproduce the analyses in Commmunity Ecology, run the script 'communityEcology.R'. This will load the 'communityEcologyData.Rdata' file and will also call functions that are included in 'traitspaceFunctions.R' script.
